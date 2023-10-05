@@ -15,6 +15,11 @@ public class PemilihanPercobaan303 {
         operator = Input00.next().charAt(0);
 
         switch (operator) {
+            // tanpa berak 
+            case '+':
+                hasil = angka1 + angka2;
+                System.out.println(angka1 + " + " + angka2 + "=" + hasil);
+                
             case '+':
                 hasil = angka1 + angka2;
                 System.out.println(angka1 + " + " + angka2 + "=" + hasil);
