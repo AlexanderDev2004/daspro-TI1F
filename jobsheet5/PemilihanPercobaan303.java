@@ -1,3 +1,4 @@
+package jobsheet5;
 import java.util.Scanner;
 
 public class PemilihanPercobaan303 {
@@ -16,9 +17,9 @@ public class PemilihanPercobaan303 {
 
         switch (operator) {
             // tanpa berak 
-            case '+':
-                hasil = angka1 + angka2;
-                System.out.println(angka1 + " + " + angka2 + "=" + hasil);
+           // case '+':
+             //   hasil = angka1 + angka2;
+               // System.out.println(angka1 + " + " + angka2 + "=" + hasil);
                 
             case '+':
                 hasil = angka1 + angka2;

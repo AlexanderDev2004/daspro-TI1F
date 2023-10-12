@@ -1,3 +1,4 @@
+package jobsheet4;
 import java.util.Scanner;
 public class HargaBayar03 {
 
