@@ -30,6 +30,7 @@ public class Nimgenap {
                 // Proses perhitungan pajak berdasarkan nilai kendaraan
                 double total = (0.15 * penghasilan)
                         + (3000000 * Double.parseDouble(namaKendaraan) + (0.5 * nilaiKendaraan));
+                // 
                 System.out.println("Total Pajak Kendaraan Anda Adalah: " + total);
             } else if (jenisHarta.equalsIgnoreCase("perhiasan")) {
                 System.out.print("Masukkan jenis perhiasan: ");
