@@ -1,3 +1,4 @@
+package jobsheet11;
 import java.util.Scanner;
 
 public class Star {

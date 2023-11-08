@@ -1,3 +1,4 @@
+package jobsheet11;
 import java.util.Scanner;
 import java.util.Random;
 
@@ -10,7 +11,7 @@ public class Quiz {
         do {
             int number = random.nextInt(10) + 1;
             boolean success = false;
-            int attempts = 0; // Add an attempts counter
+            int attempts = 0; 
 
             do {
                 System.out.print("Tebak angka (1-10): ");
