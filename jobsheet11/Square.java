@@ -9,7 +9,7 @@ public class Square {
         for (int i=1; i<=n; i++) {
             System.out.println("*");
         }
-        System.out.println("---------------------------------------");
+        System.out.println("----------------------------------------");
         for(int iOuter=1; iOuter<=n; iOuter++){ 
             for(int i=1; i<=n; i++){ 
              System.out.print("*"); 

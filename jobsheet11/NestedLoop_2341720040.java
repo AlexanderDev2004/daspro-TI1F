@@ -33,6 +33,9 @@ public class NestedLoop_2341720040 {
             System.out.println("Rata-Rata Suhu kota ke-" + (i + 1) + ": " + rata);
         }
 
-        sc.close(); 
+         
     }
+    
+        
+    
 }
